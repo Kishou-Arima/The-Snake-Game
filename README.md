@@ -1,5 +1,5 @@
 # Cpp
-<p>These are two games Made in Turbo C++</p>
+<p>This was made in Turbo C++</p>
 <ul>
 	<li>Language- C++</li>
 	<li>Version- Borland Turbo C++ 1997</li>
