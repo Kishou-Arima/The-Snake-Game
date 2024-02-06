@@ -1,18 +1,10 @@
-# Cpp
-<p>This was made in Turbo C++</p>
-<ul>
-	<li>Language- C++</li>
-	<li>Version- Borland Turbo C++ 1997</li>
-	<li>Libraries used- </li>
-	<ul>
-		<li> iostream.h</li>
-		<li>conio.h</li>
-		<li>graphics.h</li>
-		<li>dos.h</li>
-		<li>stdlib.h</li>
-		<li>stdio.h</li>
-		<li>time.h</li>
-		<li>string.h</li>
-		<li>fstream.h</li>
-	</ul>
-</ul>
+# The Snake Game
+> This Game is an Adoption of the Famous Snake games that were playable on the old Nokia phones.
+> This Version is made in Turbo C++, without any game engine and runs purely on the DOS initialized graphic libraries, Giving it an Arcade look.
+-------
+
+
+> The Libraries used for this Project are specifically available to the DOS version of Turbo C++, and needs DOS-BOX to run. These libraries are:
+> - ```graphics.h```		
+> - ```dos.h```		
+		
